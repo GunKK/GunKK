@@ -1,9 +1,9 @@
-### Nguyen Duc Hau - Backend Developer from Viet Nam
-- Hi there! I'm Nguyen Duc Hau, I'm a 4rd year student in Ho Chi Minh City University of Technology. I'm currently open for: **Intern/Fresher PHP**.
+### Nguyen Duc Hau
+- Hi there! I'm Nguyen Duc Hau, I'm a student in Ho Chi Minh City University of Technology. My major is Electronics and Telecommunications
 ***
 ### Skills
 
-- Languages: **PHP**, Python
+- Languages: **PHP**, JavaScript
 - Technologies: **Laravel**
 ***
 
@@ -12,8 +12,8 @@
 Feel free to reach out to me via the following channels:
 
 - Email: hau.nguyenbk8786@gmail.com
-- LinkedIn: [linkedin.com/in/hau-nguyen-duc-42938625b/](https://www.linkedin.com/in/hau-nguyen-duc-42938625b/)
-- GitHub: [github.com/GunKK](https://github.com/GunKK)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/gunkk251001/)
+- GitHub: [github](https://github.com/GunKK)
 
 ### Github Stats
 <div id="stats" align="center">
