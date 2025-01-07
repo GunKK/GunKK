@@ -1,10 +1,11 @@
 ### Nguyen Duc Hau
-- Hi there! I'm Nguyen Duc Hau, I'm a student in Ho Chi Minh City University of Technology. My major is Electronics and Telecommunications
+- Hi there! I'm Nguyen Duc Hau, I'm a student in Ho Chi Minh City University of Technology
 ***
 ### Skills
 
-- Languages: **PHP**, JavaScript
-- Technologies: **Laravel**
+- Languages: **PHP**, **Python**, JavaScript
+- Technologies: **Laravel**, **Django**
+- Database: MySQL, Postgres
 ***
 
 ### Contact
@@ -17,8 +18,6 @@ Feel free to reach out to me via the following channels:
 
 ### Github Stats
 <div id="stats" align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GunKK&theme=ayu-light)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunKK&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 </div>
